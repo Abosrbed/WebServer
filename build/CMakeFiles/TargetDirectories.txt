@@ -1,0 +1,3 @@
+/home/hez1/MyWeb/build/CMakeFiles/main.dir
+/home/hez1/MyWeb/build/CMakeFiles/edit_cache.dir
+/home/hez1/MyWeb/build/CMakeFiles/rebuild_cache.dir

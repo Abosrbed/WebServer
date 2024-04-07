@@ -1,0 +1,27 @@
+[
+{
+  "directory": "/home/hez1/MyWeb/build",
+  "command": "/usr/bin/g++  -I/home/hez1/MyWeb -I/home/hez1/MyWeb/http -I/home/hez1/MyWeb/lock -I/home/hez1/MyWeb/PthreadPool -I/home/hez1/MyWeb/timer -I/home/hez1/MyWeb/log -I/home/hez1/MyWeb/CGImysql -g -g  -std=gnu++11 -o CMakeFiles/main.dir/main.cpp.o -c /home/hez1/MyWeb/main.cpp",
+  "file": "/home/hez1/MyWeb/main.cpp"
+},
+{
+  "directory": "/home/hez1/MyWeb/build",
+  "command": "/usr/bin/g++  -I/home/hez1/MyWeb -I/home/hez1/MyWeb/http -I/home/hez1/MyWeb/lock -I/home/hez1/MyWeb/PthreadPool -I/home/hez1/MyWeb/timer -I/home/hez1/MyWeb/log -I/home/hez1/MyWeb/CGImysql -g -g  -std=gnu++11 -o CMakeFiles/main.dir/socket_control.cpp.o -c /home/hez1/MyWeb/socket_control.cpp",
+  "file": "/home/hez1/MyWeb/socket_control.cpp"
+},
+{
+  "directory": "/home/hez1/MyWeb/build",
+  "command": "/usr/bin/g++  -I/home/hez1/MyWeb -I/home/hez1/MyWeb/http -I/home/hez1/MyWeb/lock -I/home/hez1/MyWeb/PthreadPool -I/home/hez1/MyWeb/timer -I/home/hez1/MyWeb/log -I/home/hez1/MyWeb/CGImysql -g -g  -std=gnu++11 -o CMakeFiles/main.dir/http/http_conn.cpp.o -c /home/hez1/MyWeb/http/http_conn.cpp",
+  "file": "/home/hez1/MyWeb/http/http_conn.cpp"
+},
+{
+  "directory": "/home/hez1/MyWeb/build",
+  "command": "/usr/bin/g++  -I/home/hez1/MyWeb -I/home/hez1/MyWeb/http -I/home/hez1/MyWeb/lock -I/home/hez1/MyWeb/PthreadPool -I/home/hez1/MyWeb/timer -I/home/hez1/MyWeb/log -I/home/hez1/MyWeb/CGImysql -g -g  -std=gnu++11 -o CMakeFiles/main.dir/log/log.cpp.o -c /home/hez1/MyWeb/log/log.cpp",
+  "file": "/home/hez1/MyWeb/log/log.cpp"
+},
+{
+  "directory": "/home/hez1/MyWeb/build",
+  "command": "/usr/bin/g++  -I/home/hez1/MyWeb -I/home/hez1/MyWeb/http -I/home/hez1/MyWeb/lock -I/home/hez1/MyWeb/PthreadPool -I/home/hez1/MyWeb/timer -I/home/hez1/MyWeb/log -I/home/hez1/MyWeb/CGImysql -g -g  -std=gnu++11 -o CMakeFiles/main.dir/CGImysql/sql_connection_pool.cpp.o -c /home/hez1/MyWeb/CGImysql/sql_connection_pool.cpp",
+  "file": "/home/hez1/MyWeb/CGImysql/sql_connection_pool.cpp"
+}
+]

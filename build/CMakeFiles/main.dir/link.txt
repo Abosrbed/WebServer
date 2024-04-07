@@ -1,0 +1,1 @@
+/usr/bin/g++ -g -g  CMakeFiles/main.dir/main.cpp.o CMakeFiles/main.dir/socket_control.cpp.o CMakeFiles/main.dir/http/http_conn.cpp.o CMakeFiles/main.dir/log/log.cpp.o CMakeFiles/main.dir/CGImysql/sql_connection_pool.cpp.o -o main  /usr/lib/x86_64-linux-gnu/libmysqlclient.so 

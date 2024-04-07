@@ -1,0 +1,142 @@
+2024-04-06 14:12:01.355560 [info]: deal with the client(192.168.223.1)
+2024-04-06 14:12:01.355779 [info]: adjust timer once
+2024-04-06 14:12:01.355903 [info]: GET /log.html HTTP/1.1
+2024-04-06 14:12:01.355959 [info]: Host: 192.168.223.131:8080
+2024-04-06 14:12:01.355970 [info]: Connection: keep-alive
+2024-04-06 14:12:01.355978 [info]: Upgrade-Insecure-Requests: 1
+2024-04-06 14:12:01.356003 [info]: oop!unknow header: Upgrade-Insecure-Requests: 1
+2024-04-06 14:12:01.356012 [info]: User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0
+2024-04-06 14:12:01.356019 [info]: oop!unknow header: User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0
+2024-04-06 14:12:01.356026 [info]: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+2024-04-06 14:12:01.356033 [info]: oop!unknow header: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+2024-04-06 14:12:01.356040 [info]: Accept-Encoding: gzip, deflate
+2024-04-06 14:12:01.356047 [info]: oop!unknow header: Accept-Encoding: gzip, deflate
+2024-04-06 14:12:01.356064 [info]: Accept-Language: zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6
+2024-04-06 14:12:01.356071 [info]: oop!unknow header: Accept-Language: zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6
+2024-04-06 14:12:01.356078 [info]: 
+2024-04-06 14:12:01.356128 [info]: request:HTTP/1.1 200 OK
+
+2024-04-06 14:12:01.356142 [info]: request:HTTP/1.1 200 OK
+Content-Length: 687
+
+2024-04-06 14:12:01.356150 [info]: request:HTTP/1.1 200 OK
+Content-Length: 687
+Content-Type: html
+
+2024-04-06 14:12:01.356157 [info]: request:HTTP/1.1 200 OK
+Content-Length: 687
+Content-Type: html
+Connection: close
+
+2024-04-06 14:12:01.356168 [info]: request:HTTP/1.1 200 OK
+Content-Length: 687
+Content-Type: html
+Connection: close
+Date: 2024-04-06 14:12:01
+
+2024-04-06 14:12:01.356174 [info]: request:HTTP/1.1 200 OK
+Content-Length: 687
+Content-Type: html
+Connection: close
+Date: 2024-04-06 14:12:01
+
+
+2024-04-06 14:12:01.357040 [info]: close fd 16
+2024-04-06 14:12:01.653797 [info]: deal with the client(192.168.223.1)
+2024-04-06 14:12:01.653886 [info]: adjust timer once
+2024-04-06 14:12:01.653976 [info]: GET /favicon.ico HTTP/1.1
+2024-04-06 14:12:01.654006 [info]: Host: 192.168.223.131:8080
+2024-04-06 14:12:01.654018 [info]: Connection: keep-alive
+2024-04-06 14:12:01.654028 [info]: User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0
+2024-04-06 14:12:01.654037 [info]: oop!unknow header: User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0
+2024-04-06 14:12:01.654062 [info]: Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+2024-04-06 14:12:01.654073 [info]: oop!unknow header: Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+2024-04-06 14:12:01.654082 [info]: Referer: http://192.168.223.131:8080/log.html
+2024-04-06 14:12:01.654091 [info]: oop!unknow header: Referer: http://192.168.223.131:8080/log.html
+2024-04-06 14:12:01.654099 [info]: Accept-Encoding: gzip, deflate
+2024-04-06 14:12:01.654108 [info]: oop!unknow header: Accept-Encoding: gzip, deflate
+2024-04-06 14:12:01.654117 [info]: Accept-Language: zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6
+2024-04-06 14:12:01.654126 [info]: oop!unknow header: Accept-Language: zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6
+2024-04-06 14:12:01.654134 [info]: 
+2024-04-06 14:12:01.654188 [info]: request:HTTP/1.1 404 Not Found
+
+2024-04-06 14:12:01.654204 [info]: request:HTTP/1.1 404 Not Found
+Content-Length: 67
+
+2024-04-06 14:12:01.654211 [info]: request:HTTP/1.1 404 Not Found
+Content-Length: 67
+Content-Type: ico
+
+2024-04-06 14:12:01.654219 [info]: request:HTTP/1.1 404 Not Found
+Content-Length: 67
+Content-Type: ico
+Connection: close
+
+2024-04-06 14:12:01.654243 [info]: request:HTTP/1.1 404 Not Found
+Content-Length: 67
+Content-Type: ico
+Connection: close
+Date: 2024-04-06 14:12:01
+
+2024-04-06 14:12:01.654253 [info]: request:HTTP/1.1 404 Not Found
+Content-Length: 67
+Content-Type: ico
+Connection: close
+Date: 2024-04-06 14:12:01
+
+
+2024-04-06 14:12:01.654896 [info]: close fd 18
+2024-04-06 14:12:04.483530 [info]: deal with the client(192.168.223.1)
+2024-04-06 14:12:04.483618 [info]: adjust timer once
+2024-04-06 14:12:04.483713 [info]: POST /2CGISQL.cgi HTTP/1.1
+2024-04-06 14:12:04.483737 [info]: Host: 192.168.223.131:8080
+2024-04-06 14:12:04.483764 [info]: Connection: keep-alive
+2024-04-06 14:12:04.483773 [info]: Content-Length: 21
+2024-04-06 14:12:04.483780 [info]: Cache-Control: max-age=0
+2024-04-06 14:12:04.483787 [info]: oop!unknow header: Cache-Control: max-age=0
+2024-04-06 14:12:04.483794 [info]: Upgrade-Insecure-Requests: 1
+2024-04-06 14:12:04.483801 [info]: oop!unknow header: Upgrade-Insecure-Requests: 1
+2024-04-06 14:12:04.483807 [info]: Origin: http://192.168.223.131:8080
+2024-04-06 14:12:04.483814 [info]: oop!unknow header: Origin: http://192.168.223.131:8080
+2024-04-06 14:12:04.483821 [info]: Content-Type: application/x-www-form-urlencoded
+2024-04-06 14:12:04.483828 [info]: oop!unknow header: Content-Type: application/x-www-form-urlencoded
+2024-04-06 14:12:04.483835 [info]: User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0
+2024-04-06 14:12:04.483842 [info]: oop!unknow header: User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0
+2024-04-06 14:12:04.483849 [info]: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+2024-04-06 14:12:04.483856 [info]: oop!unknow header: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+2024-04-06 14:12:04.483874 [info]: Referer: http://192.168.223.131:8080/log.html
+2024-04-06 14:12:04.483884 [info]: oop!unknow header: Referer: http://192.168.223.131:8080/log.html
+2024-04-06 14:12:04.483893 [info]: Accept-Encoding: gzip, deflate
+2024-04-06 14:12:04.483899 [info]: oop!unknow header: Accept-Encoding: gzip, deflate
+2024-04-06 14:12:04.483906 [info]: Accept-Language: zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6
+2024-04-06 14:12:04.483913 [info]: oop!unknow header: Accept-Language: zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6
+2024-04-06 14:12:04.483920 [info]: 
+2024-04-06 14:12:04.483926 [info]: user=111&password=111
+2024-04-06 14:12:04.483975 [info]: request:HTTP/1.1 200 OK
+
+2024-04-06 14:12:04.483988 [info]: request:HTTP/1.1 200 OK
+Content-Length: 821
+
+2024-04-06 14:12:04.483995 [info]: request:HTTP/1.1 200 OK
+Content-Length: 821
+Content-Type: html
+
+2024-04-06 14:12:04.484002 [info]: request:HTTP/1.1 200 OK
+Content-Length: 821
+Content-Type: html
+Connection: close
+
+2024-04-06 14:12:04.484013 [info]: request:HTTP/1.1 200 OK
+Content-Length: 821
+Content-Type: html
+Connection: close
+Date: 2024-04-06 14:12:04
+
+2024-04-06 14:12:04.484022 [info]: request:HTTP/1.1 200 OK
+Content-Length: 821
+Content-Type: html
+Connection: close
+Date: 2024-04-06 14:12:04
+
+
+2024-04-06 14:12:04.484727 [info]: close fd 16
