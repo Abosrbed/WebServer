@@ -468,8 +468,7 @@ http_conn::HTTP_CODE http_conn::do_request()
         strcpy(m_url_real, UrlFactory::createUrl(*(p + 1)));
 
         m_url_real[strlen(m_url_real)] = '\0';
-        // strncpy(m_filename + strlen(m_filename), m_url_real, strlen(m_url_real));
-
+        
         strcat(m_filename, m_url_real);
 
         printf("进第二次 %s", m_filename);
